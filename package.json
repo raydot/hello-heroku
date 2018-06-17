@@ -1,0 +1,23 @@
+{
+  "name": "hello-heroku",
+  "version": "0.0.1",
+  "description": "Code from https://codeburst.io/node-js-on-heroku-a-more-complete-tutorial-part-1-9e80cb071498",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raydot/hello-heroku.git"
+  },
+  "keywords": [
+    "node",
+    "heroku"
+  ],
+  "author": "Dave Kanter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raydot/hello-heroku/issues"
+  },
+  "homepage": "https://github.com/raydot/hello-heroku#readme"
+}
